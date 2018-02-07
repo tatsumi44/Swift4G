@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
+    
     @IBOutlet var num1: UILabel!
     @IBOutlet var num2: UILabel!
     @IBOutlet var num3: UILabel!
